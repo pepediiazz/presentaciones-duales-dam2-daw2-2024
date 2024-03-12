@@ -40,6 +40,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ### :calendar: Jueves 16 de marzo de 2023
 
 <img height="36px" src="imagenes/serbatic.svg">
+
 * 09.15h [Bazaga Sarmiento, Jorge](https://github.com/)
 * 09.15h [Muñoz Jiménez, Jorge](https://github.com/)
 * 09.15h [Lanza Pérez, Juan Manuel](https://github.com/)
@@ -69,19 +70,24 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 10.20h [Sánchez Martínez, Jose](https://github.com/)
 
 <img height="36px" src="imagenes/aliqindoi.png">
+
 * 10.30h [Herrera Sánchez, Jesús](https://github.com/)
 * 10.30h [Belean, Denisa-Ramona](https://github.com/)
 
 <img height="36px" src="imagenes/airzone.png">
+
 * 10.40h [Moreno Ayala, Alberto](https://github.com/)
 
 <img height="36px" src="imagenes/dekra.svg">
+
 * 10.45h [Martos Ruíz, David](https://github.com/)
 
 <img height="32px" src="imagenes/properly.png">
+
 * 10.50h [Carazo Puga, José Manuel](https://github.com/)
 
 <img height="32px" src="imagenes/pwc.png">
+
 * 10.55h [Martín Gallardo, Javier](https://github.com/)
 
 <hr>
