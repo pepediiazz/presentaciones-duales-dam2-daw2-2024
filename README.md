@@ -54,7 +54,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 09.35h [López de la Torre, Julia](https://github.com/)
 * 09.35h [Santiago Perea, Vicente](https://github.com/)
 * 09.35h [Ruiz Artacho, Marina](https://github.com/)
-* 09.35h [Gutiérrez Mellado, Juan Manuel](https://github.com/)
+* 09.35h [Gutiérrez Mellado, Juan Manuel](https://github.com/Juanma-Gutierrez/ProyectoViewnextKotlin)
 
 <br/>
 
