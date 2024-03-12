@@ -39,41 +39,50 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Jueves 16 de marzo de 2023
 
-<img height="36px" src="imagenes/accenture.svg">
-
-* 09.15h [Castillo Muñoz, María Natalia](https://github.com/mnataliacm/FpDual2023_2DAM.git)
-* 09.15h [Mostazo Gámez, Alejandro](https://github.com/AlejandroMostazo/dual-2-DAW)
-
-<img height="36px" src="imagenes/dekra.svg">
-
-* 09.20h [Antúnez Pérez, David](https://github.com/DavidAntunezPerez/presentation-dual-2022-dd/tree/dual-2023-2dam)
-* 09.20h [Benítez Ruíz, José Antonio](https://github.com/JoseAntonioBenitez/Presentacion-Dual-2023/blob/master/DEKRA%20DIGITAL%20DUAL%202023.pdf)
-* 09.20h [Cueto Jiménez, Alejandro](https://github.com/AleCueto/Presentaci-nDual2023)
-* 09.20h [Moreno González, Alberto](https://github.com/albertomorenogonzalez/Presentacion-Dual-2023)
-
-<img height="30px" src="imagenes/mayoral.svg">
-
-* 09.30h [Rodríguez Barcos, Diego](https://github.com/diegorodrii/2-DAM_DUAL)
-
-<img height="32px" src="imagenes/properly.png">
-
-* 09.35h [Parra Toval, Alberto](https://github.com/AlbertoParraToval/Presentacion_Empresas_2022_2023)
+<img height="36px" src="imagenes/serbatic.svg">
+* 09.15h [Bazaga Sarmiento, Jorge](https://github.com/)
+* 09.15h [Muñoz Jiménez, Jorge](https://github.com/)
+* 09.15h [Lanza Pérez, Juan Manuel](https://github.com/)
+* 09.15h [Valente, Marco](https://github.com/)
+* 09.15h [García Muñoz, Pablo](https://github.com/)
 
 <img height="28px" src="imagenes/viewnext.png">
 
-* 09.40h [Morales García, Sergio](https://github.com/sergiomoralesgarcia/SergioMorales_Dual)
-* 09.40h [Bautista Somosierra, Francisco Alberto]()
-* 09.40h [Sánchez González, Hugo](https://github.com/hugosanchezg/presentacionDual23)
-* 09.40h [Vargas García, Juan Antonio]()
+* 09.35h [López de la Torre, Julia](https://github.com/)
+* 09.35h [Santiago Perea, Vicente](https://github.com/)
+* 09.35h [Ruiz Artacho, Marina](https://github.com/)
+* 09.35h [Gutiérrez Mellado, Juan Manuel](https://github.com/)
+
+<img height="36px" src="imagenes/accenture.svg">
+
+* 09.55h [Capilla Pérez, Ana](https://github.com/)
+* 09.55h [Romero Martínez, Ginebra](https://github.com/)
 
 <img height="28px" src="imagenes/nttdata.png">
 
-* 09.50h [Hernández Mangas, Ernesto](https://github.com/ehm4/NTT-DATA-presentacion)
-* 09.50h [Urbano Ruz, Alfonso]()
-
+* 10.10h [Portillo Hoyos, David](https://github.com/)
+* 10.10h [Pucheta Posdeley, David Nathanael](https://github.com/)
+* 
 <img height="28px" src="imagenes/opplus.png">
 
-* 10.00h [Sánchez Rojas, Pablo](https://github.com/psanroj268/Presentacion-Dual)
+* 10.20h [Díaz Marín, José Pablo](https://github.com/)
+* 10.20h [Sánchez Martínez, Jose](https://github.com/)
+
+<img height="36px" src="imagenes/aliqindoi.png">
+* 10.30h [Herrera Sánchez, Jesús](https://github.com/)
+* 10.30h [Belean, Denisa-Ramona](https://github.com/)
+
+<img height="36px" src="imagenes/airzone.png">
+* 10.40h [Moreno Ayala, Alberto](https://github.com/)
+
+<img height="36px" src="imagenes/dekra.svg">
+* 10.45h [Martos Ruíz, David](https://github.com/)
+
+<img height="32px" src="imagenes/properly.png">
+* 10.50h [Carazo Puga, José Manuel](https://github.com/)
+
+<img height="32px" src="imagenes/pwc.png">
+* 10.55h [Martín Gallardo, Javier](https://github.com/)
 
 <hr>
 
