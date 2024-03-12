@@ -1,4 +1,4 @@
-# Presentaciones duales de 2º DAM - 2º DAW turno de Mañana del curso 2023|24
+# Presentaciones duales<br/>2º DAM - 2º DAW turno de Mañana del curso 2023|24
 
 Horarios, índices a los repositorios de alumnos y normas para las presentaciones de alumnos duales de **2º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **2º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Alan Turing** (Málaga) del curso 2023 - 2024.
 
@@ -39,13 +39,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Jueves 16 de marzo de 2023
 
-<img height="36px" src="imagenes/serbatic.svg">
+<img height="36px" src="imagenes/serbatic.png">
 
 * 09.15h [Bazaga Sarmiento, Jorge](https://github.com/)
 * 09.15h [Muñoz Jiménez, Jorge](https://github.com/)
 * 09.15h [Lanza Pérez, Juan Manuel](https://github.com/)
 * 09.15h [Valente, Marco](https://github.com/)
 * 09.15h [García Muñoz, Pablo](https://github.com/)
+
+<br/>
 
 <img height="28px" src="imagenes/viewnext.png">
 
@@ -54,37 +56,53 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 09.35h [Ruiz Artacho, Marina](https://github.com/)
 * 09.35h [Gutiérrez Mellado, Juan Manuel](https://github.com/)
 
+<br/>
+
 <img height="36px" src="imagenes/accenture.svg">
 
 * 09.55h [Capilla Pérez, Ana](https://github.com/)
 * 09.55h [Romero Martínez, Ginebra](https://github.com/)
 
+<br/>
+
 <img height="28px" src="imagenes/nttdata.png">
 
 * 10.10h [Portillo Hoyos, David](https://github.com/)
 * 10.10h [Pucheta Posdeley, David Nathanael](https://github.com/)
-* 
+
+<br/>
+ 
 <img height="28px" src="imagenes/opplus.png">
 
 * 10.20h [Díaz Marín, José Pablo](https://github.com/)
 * 10.20h [Sánchez Martínez, Jose](https://github.com/)
+
+<br/>
 
 <img height="36px" src="imagenes/aliqindoi.png">
 
 * 10.30h [Herrera Sánchez, Jesús](https://github.com/)
 * 10.30h [Belean, Denisa-Ramona](https://github.com/)
 
+<br/>
+
 <img height="36px" src="imagenes/airzone.png">
 
 * 10.40h [Moreno Ayala, Alberto](https://github.com/)
+
+<br/>
 
 <img height="36px" src="imagenes/dekra.svg">
 
 * 10.45h [Martos Ruíz, David](https://github.com/)
 
+<br/>
+
 <img height="32px" src="imagenes/properly.png">
 
 * 10.50h [Carazo Puga, José Manuel](https://github.com/)
+
+<br/>
 
 <img height="32px" src="imagenes/pwc.png">
 
