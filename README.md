@@ -14,7 +14,7 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 # Información de interés
 
 ## :stopwatch: Duración de la presentación
-Las exposiciones durarán apróximadamente **5 minutos** por grupo. Los alumnos deberán llegar con 5 minutos de antelación y, una vez finalizada la exposición deberán regresar a la empresa para continuar con sus prácticas, en caso de que aún no las hayan finalizado.
+Las exposiciones durarán apróximadamente entre **5** y **20 minutos** por grupo. Los alumnos deberán llegar con 5 minutos de antelación y, una vez finalizada la exposición deberán regresar a la empresa para continuar con sus prácticas, en caso de que aún no las hayan finalizado.
 
 ## :open_file_folder:  Contenido de la presentación 
 La presentación debe tener, como mínimo, el siguiente contenido:
@@ -26,7 +26,7 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Valoración de la experiencia dual por parte del alumno.
 
 ## :bookmark_tabs: Formato de la presentación
-Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno. Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en el repositorio de GitHub. Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: presentación original, presentación en formato pdf, enlaces a videos, etc.
+Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno. Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en **pdf** en el repositorio de GitHub. Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: **presentación original**, **presentación en formato pdf**, **enlaces a videos**, etc.
 
 ## :school: Lugar de la presentación
 Las presentaciones SON PRESENCIALES y tendrán lugar en el **AULA ATECA** sito en C/ Frederick Terman,3. 29590, Málaga Tech Park.
