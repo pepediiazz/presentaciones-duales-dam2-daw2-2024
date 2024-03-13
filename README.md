@@ -42,7 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="36px" src="imagenes/serbatic.png">
 
 * 09.15h [Bazaga Sarmiento, Jorge](https://github.com/)
-* 09.15h [Muñoz Jiménez, Jorge]([https://github.com/](https://github.com/j0rg3mj/PresentacionSerbatib24JMJ.git))
+* 09.15h [Muñoz Jiménez, Jorge](https://github.com/j0rg3mj/PresentacionSerbatib24JMJ.git)
 * 09.15h [Lanza Pérez, Juan Manuel](https://github.com/JuanM27/PresentacionSerbatib24JMLP)
 * 09.15h [Valente, Marco](https://github.com/)
 * 09.15h [García Muñoz, Pablo](https://github.com/PabloGM1204/Presentacion_Dual_2-DAM)
