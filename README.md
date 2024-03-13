@@ -88,7 +88,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="36px" src="imagenes/airzone.png">
 
-* 10.40h [Moreno Ayala, Alberto](https://github.com/)
+* 10.40h [Moreno Ayala, Alberto](https://github.com/albert0moreno/airzone.git)
 
 <br/>
 
