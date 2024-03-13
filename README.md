@@ -94,7 +94,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="36px" src="imagenes/dekra.svg">
 
-* 10.45h [Martos Ruíz, David](https://github.com/)
+* 10.45h [Martos Ruiz, David](https://github.com/davidmartosruiz/presentacion-dual-2-DAW)
 
 <br/>
 
