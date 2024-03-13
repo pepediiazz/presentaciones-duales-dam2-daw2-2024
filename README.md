@@ -100,7 +100,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="32px" src="imagenes/properly.png">
 
-* 10.50h [Carazo Puga, José Manuel](https://github.com/)
+* 10.50h [Carazo Puga, José Manuel](https://github.com/JoseCp13/PresentacioDual)
 
 <br/>
 
