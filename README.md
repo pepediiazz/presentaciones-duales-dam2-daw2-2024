@@ -106,7 +106,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="32px" src="imagenes/pwc.png">
 
-* 10.55h [Martín Gallardo, Javier](https://github.com/)
+* 10.55h [Martín Gallardo, Javier](https://github.com/jotaeme890/Presentacion-Dual-2/tree/main)
 
 <hr>
 
