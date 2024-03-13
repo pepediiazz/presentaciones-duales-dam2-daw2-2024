@@ -68,8 +68,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="28px" src="imagenes/nttdata.png">
 
-* 10.10h [Portillo Hoyos, David](https://github.com/)
-* 10.10h [Pucheta Posdeley, David Nathanael](https://github.com/)
+* 10.10h [Portillo Hoyos, David](https://github.com/DavdPortillo/presentacion-dual-2-DAW)
+* 10.10h [Pucheta Posdeley, David Nathanael](https://github.com/DavdPortillo/presentacion-dual-2-DAW)
 
 <br/>
  
