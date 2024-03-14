@@ -60,8 +60,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="36px" src="imagenes/accenture.svg">
 
-* 09.55h https://github.com/AnaCP7/Presentaci-nDUAL
-* 09.55h [Romero Martínez, Ginebra](https://github.com/)
+* 09.55h [Capilla Pérez, Ana](https://github.com/AnaCP7/Presentaci-nDUAL)
+* 09.55h [Romero Martínez, Ginebra](https://github.com/ginebraromero/dual/)
 * 09.55h [García Guerrero, Antonio Luis](https://github.com/AntonioLuisGarcia/Presentacion_DUAL_2_DAM/blob/main/IBM%20WebSphere%20Application%20Server.pdf)
 
 <br/>
