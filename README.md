@@ -82,8 +82,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="36px" src="imagenes/aliqindoi.png">
 
-* 10.30h [Herrera Sánchez, Jesús](https://github.com/)
-* 10.30h [Belean, Denisa-Ramona](https://github.com/)
+* 10.30h [Herrera Sánchez, Jesús](https://github.com/Jesushs4/Presentacion_Dual_2DAM)
+* 10.30h [Belean, Denisa-Ramona](https://github.com/Jesushs4/Presentacion_Dual_2DAM)
 
 <br/>
 
